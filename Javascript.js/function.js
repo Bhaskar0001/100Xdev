@@ -4,7 +4,7 @@ function sum(a,b){
 
 }
 
-sum(20,30)
+sum("20",30)
 
 // function numSum(n){
 //    console.log( n(n+1)/2)

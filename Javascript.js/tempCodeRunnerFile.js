@@ -1,0 +1,1 @@
+fs.readFile("b.txt", "utf-8", print);
